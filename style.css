@@ -27,7 +27,7 @@
 }
 
 .img-mid:hover {
-    background: rgba(1, 0, 8, 0.1);
+    background: rgba(1, 0, 8, 0.07);
     border-radius: 5px;
 }
 
@@ -56,10 +56,10 @@
     display: flex;
     justify-content: center;
     border-radius: 50%;
-    background: rgba(1, 0, 8, 0.1);
+    background: rgba(1, 0, 8, 0.07);
 }
 .img-right:hover {
-    background:darkgray ;
+    background:rgba(1, 0, 8, 0.15) ;
 }
 
 img {
